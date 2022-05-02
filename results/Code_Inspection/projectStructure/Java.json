@@ -1,0 +1,1128 @@
+{
+  "modules": [
+    {
+      "name": "kmath",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.examples",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ast",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-commons",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ejml",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-jafama",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-jupyter",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-kotlingrad",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-multik",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-nd4j",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-symja",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensorflow",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-viktor",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.buildSrc",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.benchmarks",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.jsBenchmark",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.benchmarks.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.examples.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.examples.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ast.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ast.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ast.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ast.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ast.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ast.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-commons.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-commons.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-complex.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-core.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-coroutines.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-dimensions.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ejml.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-ejml.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-for-real.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-functions.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-geometry.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-histograms.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-jafama.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-jafama.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-jupyter.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-jupyter.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-kotlingrad.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-kotlingrad.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-memory.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-multik.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-multik.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-nd4j.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-nd4j.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-optimization.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-stat.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-symja.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-symja.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensorflow.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensorflow.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.iosArm64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.iosArm64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.iosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.iosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.jsMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.jsTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.linuxX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.linuxX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.macosX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.macosX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.mingwX64Main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.mingwX64Test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.nativeMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-tensors.nativeTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-viktor.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.kmath-viktor.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.buildSrc.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "kmath.buildSrc.main",
+      "languageLevel": 11
+    }
+  ]
+}

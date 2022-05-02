@@ -1,0 +1,16 @@
+{
+  "total": 522,
+  "tools inspection": {
+    "Code Inspection": 522
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/vitek999/kmath",
+        "revisionId": "b8fd8193b2cad920c36e6d375c5643f6da756627",
+        "branch": "master"
+      }
+    },
+    "deviceId": "200820300000000-5942-ed48-36c6-a9317570fc14"
+  }
+}
